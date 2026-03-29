@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WinnerSMP.aternos.me"
+    "ip": "WinnerSMP.aternos.me:51414"
     "port": 51414,
     "version": "",
     "try-creative": false
